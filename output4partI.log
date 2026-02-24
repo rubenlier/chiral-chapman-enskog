@@ -1,0 +1,77 @@
+nohup: ignoring input
+Packing fraction phi = 0.019634954084936207
+15:15:45.064176
+[T_2] Running simulation 1/1
+  steps     0-300000: gamma=0.0000e+00, <e_dot>_blk=5.000e-01, eta_100=9.557e+00 eta_o_100=-1.325e+00
+16:38:17.360671
+for this interval the temperature is given by 0.03906250000000001
+  steps 300000-600000: gamma=0.0000e+00, <e_dot>_blk=5.000e-01, eta_100=9.209e+00 eta_o_100=-1.706e+00
+06:33:03.041465
+for this interval the temperature is given by 0.03906249999999999
+  steps 600000-900000: gamma=0.0000e+00, <e_dot>_blk=5.000e-01, eta_100=9.873e+00 eta_o_100=-5.378e-01
+19:56:02.259232
+for this interval the temperature is given by 0.0390625
+  steps 900000-1200000: gamma=0.0000e+00, <e_dot>_blk=5.000e-01, eta_100=1.065e+01 eta_o_100=-1.538e+00
+08:40:18.027579
+for this interval the temperature is given by 0.0390625
+  steps 1200000-1500000: gamma=0.0000e+00, <e_dot>_blk=5.000e-01, eta_100=9.990e+00 eta_o_100=-8.765e-01
+00:33:09.472078
+for this interval the temperature is given by 0.0390625
+  steps 1500000-1800000: gamma=0.0000e+00, <e_dot>_blk=5.000e-01, eta_100=1.070e+01 eta_o_100=-1.442e+00
+12:04:00.658695
+for this interval the temperature is given by 0.0390625
+the number of collisions is given by 201428
+the net number of chiral collisions is given by -104482
+shear_kin/shear_col = 43.65997296903058
+Estimated eta   ~ 9.995819e+00
+Estimated eta_kin   ~ 9.771999e+00
+Estimated eta_col   ~ 2.238205e-01
+Estimated eta_o ~ -1.237520e+00
+Estimated eta_R ~ 0.000000e+00
+Initial T (from sbar):            3.906250e-02
+Final T (from sim.vel, peculiar): 3.906250e-02
+eta divided by square root of temperature   ~ 5.057529e+01
+Chapman–Enskog eta0 using initial T: 1.097923e+01  [kBT_init=3.906250e-02, sigma=5.000e-03]
+Chapman–Enskog etao0 using initial T: -1.372403e+00  [kBT_init=3.906250e-02, sigma=5.000e-03]
+the ratio of numerics to analytics is 0.910430289954243
+the ratio of numerics to analytics for odd is 0.9017172030283257
+12:04:00.671694
+[T_2] Running simulation 1/1
+  steps     0-300000: gamma=0.0000e+00, <e_dot>_blk=1.000e+00, eta_100=9.227e+00 eta_o_100=-9.920e-01
+19:09:33.316972
+for this interval the temperature is given by 0.03906249999999999
+  steps 300000-600000: gamma=0.0000e+00, <e_dot>_blk=1.000e+00, eta_100=9.142e+00 eta_o_100=-1.322e+00
+07:37:04.822117
+for this interval the temperature is given by 0.0390625
+  steps 600000-900000: gamma=0.0000e+00, <e_dot>_blk=1.000e+00, eta_100=8.769e+00 eta_o_100=-1.184e+00
+22:15:30.725564
+for this interval the temperature is given by 0.0390625
+  steps 900000-1200000: gamma=0.0000e+00, <e_dot>_blk=1.000e+00, eta_100=9.014e+00 eta_o_100=-1.457e+00
+14:17:05.228251
+for this interval the temperature is given by 0.0390625
+  steps 1200000-1500000: gamma=0.0000e+00, <e_dot>_blk=1.000e+00, eta_100=9.272e+00 eta_o_100=-1.379e+00
+06:20:45.482423
+for this interval the temperature is given by 0.0390625
+  steps 1500000-1800000: gamma=0.0000e+00, <e_dot>_blk=1.000e+00, eta_100=9.104e+00 eta_o_100=-1.326e+00
+22:34:05.584857
+for this interval the temperature is given by 0.0390625
+the number of collisions is given by 202455
+the net number of chiral collisions is given by -105725
+shear_kin/shear_col = 43.40946636357048
+Estimated eta   ~ 9.087777e+00
+Estimated eta_kin   ~ 8.883141e+00
+Estimated eta_col   ~ 2.046360e-01
+Estimated eta_o ~ -1.276668e+00
+Estimated eta_R ~ 0.000000e+00
+Initial T (from sbar):            3.906250e-02
+Final T (from sim.vel, peculiar): 3.906250e-02
+eta divided by square root of temperature   ~ 4.598092e+01
+Chapman–Enskog eta0 using initial T: 1.097923e+01  [kBT_init=3.906250e-02, sigma=5.000e-03]
+Chapman–Enskog etao0 using initial T: -1.372403e+00  [kBT_init=3.906250e-02, sigma=5.000e-03]
+the ratio of numerics to analytics is 0.8277248043755048
+the ratio of numerics to analytics for odd is 0.9302429095137958
+22:34:05.596328
+[T_2] Running simulation 1/1
+  steps     0-300000: gamma=0.0000e+00, <e_dot>_blk=1.500e+00, eta_100=8.007e+00 eta_o_100=-8.883e-01
+00:23:34.803274
+for this interval the temperature is given by 0.0390625

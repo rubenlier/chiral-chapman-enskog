@@ -1,0 +1,73 @@
+nohup: ignoring input
+Packing fraction phi = 0.019634954084936207
+10:13:26.667676
+[T_0] Running simulation 1/1
+  steps     0-300000: gamma=0.0000e+00, <e_dot>_blk=1.500e+00, eta_100=2.235e+00 eta_o_100=-1.567e-01
+07:10:28.261511
+for this interval the temperature is given by 0.007812499999999998
+  steps 300000-600000: gamma=0.0000e+00, <e_dot>_blk=1.500e+00, eta_100=2.212e+00 eta_o_100=-1.639e-01
+16:05:36.939316
+for this interval the temperature is given by 0.007812500000000002
+  steps 600000-900000: gamma=0.0000e+00, <e_dot>_blk=1.500e+00, eta_100=2.253e+00 eta_o_100=-2.233e-01
+01:47:00.469483
+for this interval the temperature is given by 0.007812500000000002
+  steps 900000-1200000: gamma=0.0000e+00, <e_dot>_blk=1.500e+00, eta_100=2.254e+00 eta_o_100=-1.891e-01
+09:44:26.206476
+for this interval the temperature is given by 0.007812500000000002
+  steps 1200000-1500000: gamma=0.0000e+00, <e_dot>_blk=1.500e+00, eta_100=2.234e+00 eta_o_100=-2.669e-01
+17:46:58.010222
+for this interval the temperature is given by 0.007812499999999998
+  steps 1500000-1800000: gamma=0.0000e+00, <e_dot>_blk=1.500e+00, eta_100=2.243e+00 eta_o_100=-2.042e-01
+01:45:33.827940
+for this interval the temperature is given by 0.0078125
+the number of collisions is given by 113623
+the net number of chiral collisions is given by -72737
+shear_kin/shear_col = 38.43530831053125
+Estimated eta   ~ 2.238560e+00
+Estimated eta_kin   ~ 2.181795e+00
+Estimated eta_col   ~ 5.676538e-02
+Estimated eta_o ~ -2.006757e-01
+Estimated eta_R ~ 0.000000e+00
+Initial T (from sbar):            7.812500e-03
+Final T (from sim.vel, peculiar): 7.812500e-03
+eta divided by square root of temperature   ~ 2.532642e+01
+Chapman–Enskog eta0 using initial T: 4.910059e+00  [kBT_init=7.812500e-03, sigma=5.000e-03]
+Chapman–Enskog etao0 using initial T: -6.137574e-01  [kBT_init=7.812500e-03, sigma=5.000e-03]
+the ratio of numerics to analytics is 0.45591312667737943
+the ratio of numerics to analytics for odd is 0.3269625680004877
+01:45:33.858962
+[T_0] Running simulation 1/1
+  steps     0-300000: gamma=0.0000e+00, <e_dot>_blk=2.000e+00, eta_100=1.789e+00 eta_o_100=-1.599e-01
+17:45:04.862696
+for this interval the temperature is given by 0.007812499999999999
+  steps 300000-600000: gamma=0.0000e+00, <e_dot>_blk=2.000e+00, eta_100=1.806e+00 eta_o_100=-1.522e-01
+01:42:05.939357
+for this interval the temperature is given by 0.007812500000000002
+  steps 600000-900000: gamma=0.0000e+00, <e_dot>_blk=2.000e+00, eta_100=1.785e+00 eta_o_100=-1.141e-01
+09:43:03.607645
+for this interval the temperature is given by 0.007812500000000002
+  steps 900000-1200000: gamma=0.0000e+00, <e_dot>_blk=2.000e+00, eta_100=1.760e+00 eta_o_100=-1.641e-01
+17:43:22.291510
+for this interval the temperature is given by 0.007812500000000002
+  steps 1200000-1500000: gamma=0.0000e+00, <e_dot>_blk=2.000e+00, eta_100=1.786e+00 eta_o_100=-1.374e-01
+01:40:12.596405
+for this interval the temperature is given by 0.0078125
+  steps 1500000-1800000: gamma=0.0000e+00, <e_dot>_blk=2.000e+00, eta_100=1.782e+00 eta_o_100=-1.743e-01
+09:43:26.778442
+for this interval the temperature is given by 0.007812500000000002
+the number of collisions is given by 155954
+the net number of chiral collisions is given by -114664
+shear_kin/shear_col = 36.620756900508205
+Estimated eta   ~ 1.784820e+00
+Estimated eta_kin   ~ 1.737377e+00
+Estimated eta_col   ~ 4.744242e-02
+Estimated eta_o ~ -1.503392e-01
+Estimated eta_R ~ 0.000000e+00
+Initial T (from sbar):            7.812500e-03
+Final T (from sim.vel, peculiar): 7.812500e-03
+eta divided by square root of temperature   ~ 2.019293e+01
+Chapman–Enskog eta0 using initial T: 4.910059e+00  [kBT_init=7.812500e-03, sigma=5.000e-03]
+Chapman–Enskog etao0 using initial T: -6.137574e-01  [kBT_init=7.812500e-03, sigma=5.000e-03]
+the ratio of numerics to analytics is 0.3635027150399829
+the ratio of numerics to analytics for odd is 0.24494892976478858
+09:43:26.778442

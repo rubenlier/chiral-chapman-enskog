@@ -1,0 +1,3 @@
+# Chapman-Enskog expansion for chirally colliding disks
+---
+In this repo is the numerical code and simulation output of the work *Chapman-Enskog expansion for chirally colliding disks*. The file ratchetencounter.ipynb contains the numerical collision experiment where an encounter between two ratchets takes place and the scattering angle is recorded. The file nemd.py contains the NEMD simulation of chiral hard disks undergoing shear, for which shear and odd viscosity is extracted. The remaining text files are output of the NEMD simulation for various temperatures and shear rates. All code is written by Ruben Lier and Paweł Matus.
